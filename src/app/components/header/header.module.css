@@ -1,0 +1,36 @@
+.header {
+    padding: 15px;
+}
+
+.pageName {
+    display: flex;
+}
+
+.backBtn {
+    color: white;
+}
+
+.pageDetails h4, .pageDetails p {
+    font-size: 16px;
+}
+
+.editIcon {
+    margin-left: 5px;
+}
+
+.userInfo {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.userInfoTypo {
+    text-align: end;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.userInfoTypo a {
+    color: rgba(255, 125, 255, 1);
+    text-decoration: underline;
+}
